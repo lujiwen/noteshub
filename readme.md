@@ -1,7 +1,4 @@
-# Be your listener
 
-
-all you need is listener
 
 user (
 // User represents the object of individual and member of team.
